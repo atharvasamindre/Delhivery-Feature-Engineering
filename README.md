@@ -3,7 +3,7 @@
 <h2 align='right'>Analysed by : <font color='red'><b> Atharva Samindre </b></font></h2>
 
 <kbd>![Delhivery-Success-story-startuptalky1](https://github.com/atharvasamindre/Delhivery-Feature-Engineering)
-![image-asset](https://drive.google.com/file/d/1xjUVnG97jxOY4AXOqMhsFRwgeGYlwggE/view?usp=sharing)</kbd>
+![image-asset]([https://drive.google.com/file/d/1xjUVnG97jxOY4AXOqMhsFRwgeGYlwggE/view?usp=sharing](https://github.com/KasiMuthuveerappan/Delhivery-FeatureEngineering/assets/142071405/d686e6f3-c5dd-4ae9-b3a1-5a4e6eb78a4c)</kbd>
 
 ## Introduction:
 - 🚚**Delhivery**, established in 2011, is India's foremost logistics and supply chain service provider, offering a comprehensive range of solutions including express parcel transportation, warehousing, and last-mile delivery.
