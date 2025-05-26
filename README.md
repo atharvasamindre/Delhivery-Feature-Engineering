@@ -2,7 +2,7 @@
 <h1 align='center'><font color='black'><font size=6>Feature Engineering</font> </font></h1>
 <h2 align='right'>Analysed by : <font color='red'><b> Atharva Samindre </b></font></h2>
 
-<kbd>![Delhivery-Success-story-startuptalky1](https://github.com/atharvasamindre/Delhivery-Feature-Engineering)
+<kbd>![Delhivery-Success-story-startuptalky1](https://github.com/KasiMuthuveerappan/Delhivery-FeatureEngineering/assets/142071405/bb263aac-ee62-4dbf-8fba-6d3d1e991b3e)
 ![image-asset](https://github.com/KasiMuthuveerappan/Delhivery-FeatureEngineering/assets/142071405/d686e6f3-c5dd-4ae9-b3a1-5a4e6eb78a4c)</kbd>
 
 ## Introduction:
